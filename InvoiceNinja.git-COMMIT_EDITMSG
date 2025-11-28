@@ -1,0 +1,9 @@
+Add database functionality to save and manage invoice templates and history
+
+Integrates PostgreSQL for database operations, introduces functions for initializing the database schema, saving client templates, fetching templates, and storing invoice history. Updates pyproject.toml with necessary dependencies (psycopg2-binary, pillow) and adds a replit.md file detailing the project architecture and setup.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 51d46420-3ed2-4e9e-b9ef-26a33336a459
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 77d5608d-196b-42b9-b030-b93195385287
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/55e9a214-c1e7-4e66-8270-b0d7edb1a295/51d46420-3ed2-4e9e-b9ef-26a33336a459/7EfpRym
